@@ -1,0 +1,7 @@
+@font-face {
+    font-family: shahin;
+    src: url('./assets/font/Roboto-Bold.ttf');
+  }
+  *{
+    font-family: shahin;
+  }
